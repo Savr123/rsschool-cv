@@ -11,8 +11,12 @@
             "id": "f58ea91525ee94e9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CS Roadmap/Backend/Asp.net c#/Roadmap ASP.NET.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS Roadmap/Backend/Asp.net c#/Roadmap ASP.NET.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS Roadmap/Backend/Asp.net c#/Roadmap ASP.NET.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS Roadmap/Frontend/ReactJS/ReduxJs/Redux-Persist.md"
+                "file": "CS Roadmap/Backend/Asp.net c#/Roadmap ASP.NET.md"
               }
             }
           }
@@ -140,19 +146,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "820ad4ab3a26c41b",
+  "active": "f58ea91525ee94e9",
   "lastOpenFiles": [
+    "CS Roadmap/Backend/Roadmap..md",
+    "CS Roadmap/Backend/Asp.net c#/Roadmap ASP.NET.md",
+    "CS Roadmap/Frontend/Roadmap..md",
     "CS Roadmap/Frontend/ReactJS/ReduxJs/Redux-Persist.md",
+    "CS Roadmap/Backend/Cache-Control, Message-Broker/Apache Kafka",
+    "CS Roadmap/Backend/Cache-Control, Message-Broker/Rabbit",
+    "CS Roadmap/Backend/Cache-Control, Message-Broker/Redis",
+    "CS Roadmap/Backend/Cache-Control, Message-Broker",
+    "CS Roadmap/Network",
+    "CS Roadmap/CI CD, DevOps/Kubernetes/Docker",
+    "CS Roadmap/CI CD, DevOps/Kubernetes",
+    "CS Roadmap/CI CD, DevOps/Git",
+    "CS Roadmap/CI CD, DevOps",
     "CS Roadmap/Frontend/ReactJS/ReduxJs",
-    "README.md",
-    "CS Roadmap/Machine learning",
-    "CS Roadmap/Backend/Asp.net c#",
-    "CS Roadmap/Frontend/ReactJS/Hooks",
-    "CS Roadmap/Frontend/JavaScript",
-    "CS Roadmap/Frontend/TypeScript",
-    "CS Roadmap/Frontend/ReactJS",
-    "CS Roadmap/Frontend",
-    "CS Roadmap/Backend",
-    "CS Roadmap"
+    "README.md"
   ]
 }
