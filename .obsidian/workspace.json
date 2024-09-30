@@ -11,12 +11,8 @@
             "id": "f58ea91525ee94e9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS Roadmap/Frontend/ReactJS/ReduxJs/Redux-Persist.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS Roadmap/Frontend/ReactJS/ReduxJs/Redux-Persist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS Roadmap/Frontend/ReactJS/ReduxJs/Redux-Persist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,13 +142,14 @@
   },
   "active": "820ad4ab3a26c41b",
   "lastOpenFiles": [
+    "CS Roadmap/Frontend/ReactJS/ReduxJs/Redux-Persist.md",
+    "CS Roadmap/Frontend/ReactJS/ReduxJs",
+    "README.md",
     "CS Roadmap/Machine learning",
     "CS Roadmap/Backend/Asp.net c#",
     "CS Roadmap/Frontend/ReactJS/Hooks",
     "CS Roadmap/Frontend/JavaScript",
     "CS Roadmap/Frontend/TypeScript",
-    "CS Roadmap/Frontend/ReactJS/ReduxJs/Redux-Persist.md",
-    "CS Roadmap/Frontend/ReactJS/ReduxJs",
     "CS Roadmap/Frontend/ReactJS",
     "CS Roadmap/Frontend",
     "CS Roadmap/Backend",
